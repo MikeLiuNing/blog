@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MikeLiuNing/blog.git",
+  "author": "liuning <yakshaliu@163.com>",
+  "license": "MIT",
+  "dependencies": {
+  	
+  }
+}
